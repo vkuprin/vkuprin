@@ -1,5 +1,3 @@
-# Vitaly Kuprin
-
 ## About Me
 
 I specialize in creating beautiful, functional web and mobile applications.
