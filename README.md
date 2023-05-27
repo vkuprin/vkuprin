@@ -10,7 +10,7 @@ I specialize in creating beautiful, functional web and mobile applications.
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,css,bash,php,react,vue,nodejs,redux,threejs,nextjs,styledcomponents,sass,nestjs,firebase,mongodb,redis,postgresql,mysql,sqlite,jest,git,webpack,rollup,vite,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,css,bash,php,react,vue,nodejs,redux,threejs,nextjs,styledcomponents,sass,nestjs,firebase,mongodb,redis,postgresql,mysql,sqlite,jest,git,webpack,rollup,vite,docker)](https://vkuprin.com)
 
 ## Languages
 
