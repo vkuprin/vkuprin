@@ -57,7 +57,7 @@ I specialize in creating beautiful, functional web and mobile applications.
 
 **IDE:**
 
-[![IntelliJ IDEA
+[![IDEA](https://skillicons.dev/icons?i=idea)](https://vkuprin.com)
 
 ## Languages
 
