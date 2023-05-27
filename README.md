@@ -1,6 +1,6 @@
 ## About Me
 
-I specialize in creating beautiful, functional web and mobile applications. I don't need visa for sponsorhip 😄
+I specialize in creating beautiful, functional web and mobile applications. 
 
 📧 Email: [kuprins@outlook.com](mailto:kuprins@outlook.com)
 
@@ -19,3 +19,5 @@ I specialize in creating beautiful, functional web and mobile applications. I do
 - Russian: Native or Bilingual Proficiency
 
 ⭐ Let's connect and build great things together! ⭐
+
+P.S I don't need visa for sponsorhip 😄
