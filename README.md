@@ -18,6 +18,4 @@ I specialize in creating beautiful, functional web and mobile applications.
 - Latvian: Full Professional Proficiency
 - Russian: Native or Bilingual Proficiency
 
-⭐ Let's connect and build great things together! ⭐
-
-P.S I don't need visa for sponsorhip 😄
+⭐ I don't need visa for sponsorhip ⭐
