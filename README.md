@@ -9,7 +9,7 @@ I specialize in creating beautiful, functional web and mobile applications.
 🔗 LinkedIn: [linkedin.com/in/vitaly-kuprin](https://linkedin.com/in/vitaly-kuprin)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,css,bash,php,react,vue,nodejs,redux,threejs,nextjs,styledcomponents,sass,nestjs,firebase,idea,redis,postgresql,mysql,sqlite,jest,git,webpack,rollup,vite,docker,express,graphql,sentry,laravel)](https://vkuprin.com)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,css,bash,php,react,vue,nodejs,redux,threejs,nextjs,styledcomponents,sass,nestjs,firebase,idea,redis,postgresql,mysql,sqlite,jest,git,webpack,rollup,vite,docker,express,graphql,rails,laravel)](https://vkuprin.com)
 
 ## Languages
 
