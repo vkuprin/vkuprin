@@ -10,23 +10,7 @@ I specialize in creating beautiful, functional web and mobile applications.
 
 ## Skills
 
-## Skills
-
-![](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/javascript.svg)
-![](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/typescript.svg)
-![](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/css.svg)
-![](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/bash.svg)
-![](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/php.svg)
-![](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/react.svg)
-![](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/nodejs.svg)
-![](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/vue.svg)
-![](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/redux.svg)
-![](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/docker.svg)
-![](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/firebase.svg)
-![](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/mongodb.svg)
-![](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/postgresql.svg)
-![](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/mysql.svg)
-![](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/git.svg)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,css,bash,php,react,vue,nodejs,redux,threejs,nextjs,styledcomponents,sass,nestjs,firebase,mongodb,redis,postgresql,mysql,sqlite,jest,git,webpack,rollup,vite,docker)](https://skillicons.dev)
 
 ## Languages
 
