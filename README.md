@@ -1,6 +1,6 @@
 ## About Me
 
-I specialize in creating beautiful, functional web and mobile applications. 
+I specialize in creating beautiful, functional web and mobile applications
 
 📧 Email: [kuprins@outlook.com](mailto:kuprins@outlook.com)
 
