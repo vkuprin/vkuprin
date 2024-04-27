@@ -2,9 +2,9 @@
 
 I specialize in creating beautiful, functional web and mobile applications
 
-📧 Email: [kuprins@outlook.com](mailto:kuprins@outlook.com)
+📨 Email: [kuprins@outlook.com](mailto:kuprins@outlook.com)
 
-🌐 Portfolio: [vkuprin.com](https://vkuprin.com)
+💼 Portfolio: [vkuprin.com](https://vkuprin.com)
 
 🔗 LinkedIn: [linkedin.com/in/vitaly-kuprin](https://linkedin.com/in/vitaly-kuprin)
 
