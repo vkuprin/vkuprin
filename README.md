@@ -8,4 +8,4 @@ I specialize in creating beautiful, functional web and mobile applications
 
 ## Open Source Contributions
 
-<img src="https://avatars.githubusercontent.com/u/56506482?s=48&v=4" width="18" height="18"> **Monite SDK**: [team-monite/monite-sdk](https://github.com/team-monite/monite-sdk)
+<img src="https://avatars.githubusercontent.com/u/56506482?s=48&v=4" width="15" height="15"> **Monite SDK**: [team-monite/monite-sdk](https://github.com/team-monite/monite-sdk)
