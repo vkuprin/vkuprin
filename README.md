@@ -14,4 +14,4 @@ I specialize in creating beautiful, functional web and mobile applications
 
 ## Personal Projects
 
-In my free time, I maintain the [Gomoku platform](https://github.com/ligomoku/gomoku) 
+In my free time, I maintain the [Chrome Extension - Site Spy](https://chromewebstore.google.com/detail/site-spy/jeapcpanagdgipcfnncmogeojgfofige) 
