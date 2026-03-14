@@ -14,4 +14,6 @@ I specialize in creating beautiful, functional web and mobile applications
 
 ## Personal Projects
 
-<img src="https://sitespy.app/logo-full.png" width="20" height="20"> [Site Spy](https://sitespy.app) — Webpage change monitoring with element-level tracking and RSS feeds. [Featured on Hacker News](https://news.ycombinator.com/item?id=47337607) (300+ points)
+<img src="https://sitespy.app/logo-full.png" width="20" height="20"> [Site Spy](https://sitespy.app) — Webpage change monitoring with element-level tracking and RSS feeds. 
+
+[Featured on Hacker News](https://news.ycombinator.com/item?id=47337607) (300+ points)
