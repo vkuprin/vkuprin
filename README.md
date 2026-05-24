@@ -11,7 +11,7 @@ I specialize in creating beautiful, functional web and mobile applications
 
 ![Wire](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/16047324?v=4&h=18&w=18&fit=cover&mask=circle) Wire Desktop: [wireapp/wire-desktop](https://github.com/wireapp/wire-desktop/pulls?q=is%3Apr+is%3Aclosed+author%3Avkuprin+assignee%3Avkuprin)
 
-![Monite](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/56506482?v=4&h=18&w=18&fit=cover&mask=circle) Monite SDK: [team-monite/monite-sdk](https://github.com/team-monite/monite-sdk/pulls?q=is%3Apr+is%3Aclosed+assignee%3Avkuprin)
+![Monite](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/56506482?v=4&h=18&w=18&fit=cover&mask=circle) Monite SDK: [team-monite/monite-sdk](https://github.com/vkuprin/monite-sdk/commits?author=vkuprin)
 
 ## Personal Projects
 
