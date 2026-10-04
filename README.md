@@ -1,5 +1,5 @@
 ## About Me
-I build tools for AI coding agents: MCP servers, evals and guardrails. Most of my work is getting agents to use the design system instead of making up their own UI. Senior Engineer at [Callstack](https://callstack.com)
+I build web, mobile and desktop apps with TypeScript, React and React Native. Lately I work on tools for AI coding agents: MCP servers, evals and guardrails, mostly so agents use the design system instead of making up their own UI. Senior Engineer at [Callstack](https://callstack.com)
 
 💼 Portfolio: [vkuprin.com](https://vkuprin.com)
 
