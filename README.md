@@ -8,7 +8,9 @@
 
 [ralph-harness](https://github.com/vkuprin/ralph-harness) — runs Claude Code in a loop for days. Every iteration is a fresh `claude -p`, and a commit ships only if your own checks pass. `brew install vkuprin/tap/ralph`
 
-[local-code-navigator](https://github.com/vkuprin/local-code-navigator) — code navigation for Claude Code and Codex, plus the benchmark I built to test it. After 54 runs on a real repo it used 5.1x more context than the agent without it, so that result is in the README too
+## Publications
+
+[Building Reliable AI Figma-to-Code Loops](https://www.callstack.com/blog/building-reliable-ai-design-to-code-loops) (Callstack blog) — an AI Figma-to-code workflow that uses your design system and checks its own output with component mappings, import checks and visual feedback
 
 ## Open Source Contributions
 
