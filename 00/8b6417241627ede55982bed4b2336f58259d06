@@ -1,0 +1,19 @@
+README.md
+  s_5db0107185c820::t_090aecbbe4886b 1-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "008b6417241627ede55982bed4b2336f58259d06",
+  "prompts": {},
+  "sessions": {
+    "s_5db0107185c820": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cdc5327f-1680-48d9-931f-8647f62636ed",
+        "model": "claude-fable-5-2"
+      },
+      "human_author": "Vitaly Kuprin <vitas_s@inbox.lv>"
+    }
+  }
+}
